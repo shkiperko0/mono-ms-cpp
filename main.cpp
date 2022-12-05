@@ -1,8 +1,5 @@
 #include "./main.h"
 
-
-
-
 int main(){
     using namespace iku::net;
     using namespace std;
